@@ -165,6 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
+    background-color:coral;
     background: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png") no-repeat center;
     height: 100vh;
     color: #fff;
